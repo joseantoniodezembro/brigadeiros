@@ -1,0 +1,71 @@
+.texto{
+	margin-top: 40px;
+	margin-left: 200px;
+}
+.texto2{
+	margin-top: 20px;
+	margin-left: 200px;
+}
+.img{
+	margin-left: 450px;
+	margin-top: 20px;
+}
+.img1{
+	margin-left: 200px;
+}
+.secao-10{
+	text-align: center;
+	margin-top: 50px;
+}
+.Limão {
+    
+    margin-left: 0px;
+	margin-top: 200px;
+}
+.Limão a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(9, 128, 9);
+}
+
+.Limão a:hover {
+    color: rgb(74, 230, 126);
+    border-top: 2px solid rgb(74, 230, 126);
+    border-bottom: 2px solid rgb(74, 230, 126);
+}
+.morango {
+    margin-top: -20px;
+    text-align: center;
+    
+    
+}
+.morango a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(151, 7, 7);
+}
+
+.morango a:hover {
+    color: rgb(158, 23, 5);
+    border-top: 2px solid rgb(243, 31, 179);
+    border-bottom: 2px solid rgb(253, 45, 45);
+}
+.tradicional {
+    margin-top: -20px;
+	margin-left: 1500px;
+}
+.tradiconal a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(78, 223, 21);
+}
+
+.tradicional a:hover {
+    color: rgb(255, 60, 0);
+    border-top: 2px solid rgb(192, 55, 185);
+    border-bottom: 2px solid rgb(35, 212, 103);
+}
+
